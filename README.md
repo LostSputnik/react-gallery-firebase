@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Note: You need to add your Firebase configs in src/firebase/env.firebaseConfig.js to connect to Firebase
-
 ## Available Scripts
+Note: You need to first add your Firebase configs in src/firebase/env.firebaseConfig.js to connect to Firebase
 
 In the project directory, you can run:
 
