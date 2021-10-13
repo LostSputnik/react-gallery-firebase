@@ -6,7 +6,7 @@ import { getStorage } from 'firebase/storage'
 import { getFirestore } from 'firebase/firestore'
 
 // Your web app's Firebase configuration
-import firebaseConfig from './env.FirebaseConfig'
+import firebaseConfig from './env.firebaseConfig'
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
